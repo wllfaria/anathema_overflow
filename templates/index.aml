@@ -1,0 +1,5 @@
+vstack
+    // adding an overflow here fixes it
+    for line in content
+        text line
+    expand
